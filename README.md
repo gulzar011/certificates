@@ -1,10 +1,11 @@
 #Certificates 
 
 
-![data analyst courses](en%(1).pdf)
+![data analyst courses](<img width="1386" alt="Screenshot 2024-06-08 at 5 40 55 PM" src="https://github.com/gulzar011/certificates/assets/114032550/53de5e35-c1c1-4172-8838-871abb110ae1">
+)
 
-![stats](stepik-certificate-76-583ccd3-2.pdf)
+![stats](Screenshot%2024-06-08%at%5.40.47%PM)
 
-![data google courses](Coursera%NR8RY99Q8JPM%(1).pdf)
+![data google courses](Screenshot%2024-06-08%at%5.40.47%PM)
 
-![sql](Coursera%CDZXUT2WYY8N.pdf)
+![sql](Screenshot%2024-06-08%at%5.40.47%PM)
